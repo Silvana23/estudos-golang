@@ -1,4 +1,2 @@
-# estudos-golang
-# estudos-golang
-# estudos-golang
-# estudos-golang
+nesse projeto coloquei alguns desafios praticos que concluir
+quando estava aprendendo a liguagem Go
